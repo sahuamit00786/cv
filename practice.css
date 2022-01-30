@@ -1,0 +1,100 @@
+body {
+  text-align: center;
+  margin: 0px;
+  font-family: 'Mohave', cursive;
+
+}
+
+h1 {
+  font-style: italic;
+  font-family: 'Quintessential', cursive;
+  height: auto;
+  width: 20%;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+.profile
+{
+  border-style: none;
+}
+.upper-container {
+  background-color: #FFEEAD;
+  margin: 0;
+  height: 50%;
+  padding-top: 100px;
+  position: relative;
+}
+
+.lower-cloud {
+  position: absolute;
+  right: 500px;
+  left: 300px;
+}
+
+.upper-cloud {
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 10px;
+}
+
+.middle-container {
+  background-color: #FFEEAD;
+  margin: 0px;
+  padding: 0px;
+  width: 100%
+  height: 500px;
+  border-style: none;
+}
+.skills
+{
+  padding-top: 60px;
+}
+.aurat
+{
+  padding-top: 60px;
+   width: 250px;
+   border-radius: 10px;
+}
+.explore
+{
+  width: 250px;
+}
+
+.computer
+{
+  padding-top: 60px;
+  width: 250px;
+}
+#hello
+{
+  font-size: 20px;
+  width: 40%;
+  margin-left: 500px;
+}
+#bhkk
+{
+  font-size: 20px;
+  width: 40%;
+  margin-left: 500px;
+}
+.contact-me
+{
+  border-style: none;
+  padding-top: 5px;
+  margin: 0px;
+}
+#abe
+{
+  margin-left: 500px;
+  font-size: 20px;
+  width: 40%;
+}
+.bottom-container {
+  background-color: #FFEEAD;
+  margin-left: 0px;
+  padding: 0px;
+  border-style: inset;
+  width: 100%;
+  height: 150px;
+  border-style: none;
+}
