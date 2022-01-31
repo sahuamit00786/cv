@@ -2,6 +2,7 @@ body {
   text-align: center;
   margin: 0px;
   font-family: 'Mohave', cursive;
+  background-color: #FFEEAD;
 
 }
 
@@ -12,6 +13,10 @@ h1 {
   width: 20%;
   margin: 0 auto;
   padding-top: 100px;
+}
+.hr-style
+{
+   border-style: none;
 }
 .profile
 {
